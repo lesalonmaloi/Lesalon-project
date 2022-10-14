@@ -91,8 +91,8 @@ h3 {
   background-color: var(--fill-color);
   display: flex;
   align-items: center;
+  justify-content: center;
   font-weight: bold;
-  font-size: 30px;
   height: 0;
   transition: 0.3s ease;
 }
