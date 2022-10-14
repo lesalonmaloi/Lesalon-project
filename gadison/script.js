@@ -19,7 +19,6 @@ function highlightCups(idx) {
         if(idx2 <= idx) {
             cup.classList.add('full')
         } else {
-           
         }
     })
 
